@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+    <head>
+
+      {% if title %}
+      <title>{{ title }} </title>
+      {% else %}
+      <title>Todo List</title>
+      {% endif %}
+    </head>
+    <body>
+        <label for="Name">Question:</label>
+        <input type="text" id="Name" name="Name">
+        <button onclick="myFunction()" type="button">Ask!</button>
+        <br />
+        <label for="Answer">Answer:</label>
+        <p id="Answer"></p>
+
+
+    </body>
+    <script>
+        // TODO: connect it to rag pipeline -> get answer from backend!
+        function myFunction() {
+            var question = document.getElementById("Name").value;
+            document.getElementById("Answer").innerHTML = question;
+            location.href = "http://localhost:5601/query?text=" + question;
+        }
+    </script>
+</html>

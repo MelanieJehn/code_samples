@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+    <body>
+        <label for="Name">Question:</label>
+        <p id="Name">{{query}}</p>
+        <button onclick="myFunction()" type="button">Return!</button>
+        <br /> <br />
+        <label for="Answer">Answer:</label>
+        <p id="Answer">{{response}}</p>
+
+
+    </body>
+    <script>
+        function myFunction() {
+            location.href = "http://localhost:5601/ask";
+        }
+    </script>
+</html>
