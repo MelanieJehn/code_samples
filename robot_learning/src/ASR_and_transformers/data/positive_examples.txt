@@ -1,0 +1,72 @@
+Give me the left cup 1
+Can I have the mug please 1
+Please pass me the object 1
+Grab the right mug 2
+Pass me the cup 1
+Please hand me the object 1
+Give me the left object please 1
+Grasp the cup 2
+Please give me the cup 1
+Give me the right cup please 1
+Please pass me the cup 1
+Grab the cup please 2
+Please hand me the left cup 1
+Hand me the cup please 1
+Give me the mug 1
+Please grasp the right mug 2
+Please hand me the mug 1
+Hand me the mug please 1
+Pass me the left mug 1
+Please grab the mug 2
+Pass me the mug please 1
+Can I have the right object 1
+Please give me the object 1
+Grasp the object 2
+Hand me the left object please 1
+Pass me the object 1
+Pass me the object please 1
+Grab the right box 2
+Please hand me the box 1
+Can I have the box please 1
+Hand me the left sphere 1
+Please grasp the sphere 2
+Give me the sphere please 1
+Pass me the right cross 1
+Please give me the cross 1
+Grab the cross please 2
+Can I have the left bottle 1
+Please hand me the bottle 1
+Pass me the bottle please 1
+Hand me the right pepper shaker 1
+Please grasp the salt sprinkler 2
+Give me the pepper sprinkler please 1
+Pass me the left salt shaker 1
+Please give me the pepper shaker 1
+Grab the salt sprinkler please 2
+Take the left cup 2
+Please grab the object 2
+Give me the right mug 1
+Please grasp the object 2
+Grab the left object please 2
+Hand me the cup 1
+Please take the cup 2
+Grasp the right cup please 2
+Please grab the left cup 2
+Please give me the right mug 1
+Take the left mug 2
+Please hand me the mug 1
+Grasp the mug please 2
+Can I have the left object 1
+Please take the object 2
+Grab the left object please 2
+Hand me the right box 1
+Grasp the left sphere 2
+Take the right cross 2
+Please grab the cross 2
+Can I have the right bottle 1
+Please grasp the bottle 2
+Take the bottle please 2
+Grab the right pepper shaker 2
+Grasp the pepper sprinkler please 2
+Pass me the right salt shaker 1
+Please take the pepper shaker 2
